@@ -1,0 +1,10 @@
+Flask
+SQLAlchemy
+psycopg2-binary
+PyJWT
+bcrypt
+websocket-client
+gunicorn
+Flask-CORS
+Flask-Migrate
+Flask-SQLAlchemy
